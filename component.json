@@ -1,0 +1,9 @@
+{
+  "name": "cubic-bezier",
+  "description": "A small cubic bézier timing function like CSS3 timing functions",
+  "repo": "JayceTDE/cubic-bezier",
+  "version": "0.0.1",
+  "scripts": [
+    "index.js"
+  ]
+}
